@@ -1,8 +1,0 @@
-RemoteSystemsTempFiles/
-.metadata/
-
-# in Example_LEDBlink
-Example_LEDBlink/Debug/
-Example_LEDBlink/.*
-Example_LEDBlink/Example_LEDBlink Debug.launch
-
