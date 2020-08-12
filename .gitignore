@@ -6,3 +6,8 @@ Example_LEDBlink/Debug/
 Example_LEDBlink/.*
 Example_LEDBlink/Example_LEDBlink Debug.launch
 
+# in Example_printf
+Example_printf/Debug/
+Example_printf/.*
+Example_printf/Example_printf Debug.launch
+
